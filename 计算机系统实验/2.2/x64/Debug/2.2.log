@@ -1,0 +1,4 @@
+﻿  2.2.cpp
+C:\Users\deadf\Desktop\计算机系统实验\2.2\2.2.cpp(51,12): warning C4101: “j”: 未引用的局部变量
+C:\Users\deadf\Desktop\计算机系统实验\2.2\2.2.cpp(79,20): warning C4305: “初始化”: 从“double”到“float”截断
+  2.2.vcxproj -> C:\Users\deadf\Desktop\计算机系统实验\x64\Debug\2.2.exe

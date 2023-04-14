@@ -1,0 +1,12 @@
+﻿  Assembling 4.3.asm...
+4.3.asm(1): error A2008: syntax error : .
+4.3.asm(2): error A2008: syntax error : .
+4.3.asm(17): error A2008: syntax error : .
+4.3.asm(20): error A2008: syntax error : printf
+4.3.asm(21): error A2008: syntax error : scanf
+4.3.asm(36): error A2008: syntax error : printf
+4.3.asm(39): error A2008: syntax error : printf
+4.3.asm(41): error A2008: syntax error : invoke
+4.3.asm(42): warning A6001: no return from procedure
+4.3.asm(42): warning A6004: procedure argument or local not referenced : c
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: 命令“ml64.exe /c /nologo /Zi /Fo"x64\Debug\4.3.obj" /W3 /errorReport:prompt  /Ta4.3.asm”已退出，返回代码为 1。

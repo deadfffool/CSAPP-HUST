@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(计算机系统实验.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  1.1.cpp
+C:\Users\deadf\Desktop\计算机系统实验\计算机系统实验\1.1.cpp(26,27): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\deadf\Desktop\计算机系统实验\计算机系统实验\1.1.cpp(30,26): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\deadf\Desktop\计算机系统实验\计算机系统实验\1.1.cpp(34,26): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\deadf\Desktop\计算机系统实验\计算机系统实验\1.1.cpp(110,15): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\deadf\Desktop\计算机系统实验\计算机系统实验\1.1.cpp(133,15): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+  计算机系统实验.vcxproj -> C:\Users\deadf\Desktop\计算机系统实验\x64\Debug\1.1.exe

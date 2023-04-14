@@ -1,0 +1,20 @@
+int func4(int x,int y,int z) 
+{
+  int k=0.5t+0.5y;
+  if(k>x)
+  {
+    z=k-1;
+    t=func4(x,y,z);
+    t=2t;
+    return t;
+  }
+  if(k<x)
+  {
+     y=k+1;
+     t=func4(x,y,z);
+     t=2*t+1;
+     return;
+  }
+  if(k==x)
+         return 0;
+}
